@@ -27,24 +27,24 @@
 |<ul><li>- [ ] Done</li></ul>|20|[Working out](http://codeforces.com/problemset/problem/429/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|21|[Read Time](http://codeforces.com/problemset/problem/343/C)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|22|[Cow Program](http://codeforces.com/problemset/problem/283/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|23|[LCM Challenge](http://codeforces.com/problemset/problem/235/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|24|[Bubble Sort Graph](http://codeforces.com/problemset/problem/340/D)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|25|[Beautiful Numbers](http://codeforces.com/problemset/problem/300/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|26|[Counting Kangaroos is Fun](http://codeforces.com/problemset/problem/372/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|27|[Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|28|[Little Girl and Maximum XOR](http://codeforces.com/problemset/problem/276/D)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|23|[LCM Challenge](http://codeforces.com/problemset/problem/235/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|24|[Bubble Sort Graph](http://codeforces.com/problemset/problem/340/D)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|25|[Beautiful Numbers](http://codeforces.com/problemset/problem/300/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|26|[Counting Kangaroos is Fun](http://codeforces.com/problemset/problem/372/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|27|[Little Girl and Maximum Sum](http://codeforces.com/problemset/problem/276/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|28|[Little Girl and Maximum XOR](http://codeforces.com/problemset/problem/276/D)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|29|[No to Palindromes!](http://codeforces.com/problemset/problem/464/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|30|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|31|[Matrix](http://codeforces.com/problemset/problem/364/A)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|32|[Round Table Knights](http://codeforces.com/problemset/problem/71/C)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|33|[Caesar's Legions](http://codeforces.com/problemset/problem/118/D)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|30|[George and Job](http://codeforces.com/problemset/problem/467/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|31|[Matrix](http://codeforces.com/problemset/problem/364/A)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|32|[Round Table Knights](http://codeforces.com/problemset/problem/71/C)|Codeforces|4|
+|<ul><li>- [x] Done</li></ul>|33|[Caesar's Legions](http://codeforces.com/problemset/problem/118/D)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|34|[Zero Tree](http://codeforces.com/problemset/problem/274/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|35|[Maximum Submatrix 2](http://codeforces.com/problemset/problem/375/B)|Codeforces|4|
 |<ul><li>- [ ] Done</li></ul>|36|[Password](http://codeforces.com/problemset/problem/126/B)|Codeforces|4|
-|<ul><li>- [ ] Done</li></ul>|37|[Book of Evil](http://codeforces.com/problemset/problem/337/D)|Codeforces|5|
-|<ul><li>- [ ] Done</li></ul>|38|[Lucky Tree](http://codeforces.com/problemset/problem/109/C)|Codeforces|5|
-|<ul><li>- [ ] Done</li></ul>|39|[Jzzhu and Cities](http://codeforces.com/problemset/problem/449/B)|Codeforces|5|
-|<ul><li>- [ ] Done</li></ul>|40|[Ciel and Duel](http://codeforces.com/problemset/problem/321/B)|Codeforces|5|
+|<ul><li>- [x] Done</li></ul>|37|[Book of Evil](http://codeforces.com/problemset/problem/337/D)|Codeforces|5|
+|<ul><li>- [x] Done</li></ul>|38|[Lucky Tree](http://codeforces.com/problemset/problem/109/C)|Codeforces|5|
+|<ul><li>- [x] Done</li></ul>|39|[Jzzhu and Cities](http://codeforces.com/problemset/problem/449/B)|Codeforces|5|
+|<ul><li>- [x] Done</li></ul>|40|[Ciel and Duel](http://codeforces.com/problemset/problem/321/B)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|41|[Array and Operations](http://codeforces.com/problemset/problem/498/C)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|42|[Increase Sequence](http://codeforces.com/problemset/problem/466/D)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|43|[Choosing Capital for Treeland](http://codeforces.com/problemset/problem/219/D)|Codeforces|5|
