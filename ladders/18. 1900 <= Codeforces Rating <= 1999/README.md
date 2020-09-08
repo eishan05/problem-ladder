@@ -5,10 +5,10 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Sereja and Dima](http://codeforces.com/problemset/problem/381/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Gravity Flip](http://codeforces.com/problemset/problem/405/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|3|[Little Pony and Crystal Mine](http://codeforces.com/problemset/problem/454/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|4|[Anton and Letters](http://codeforces.com/problemset/problem/443/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|1|[Sereja and Dima](http://codeforces.com/problemset/problem/381/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|2|[Gravity Flip](http://codeforces.com/problemset/problem/405/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|3|[Little Pony and Crystal Mine](http://codeforces.com/problemset/problem/454/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|4|[Anton and Letters](http://codeforces.com/problemset/problem/443/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|5|[Fox And Snake](http://codeforces.com/problemset/problem/510/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|6|[inc ARG](http://codeforces.com/problemset/problem/465/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|7|[Caisa and Pylons](http://codeforces.com/problemset/problem/463/B)|Codeforces|2|
