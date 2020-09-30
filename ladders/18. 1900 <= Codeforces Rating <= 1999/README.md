@@ -9,8 +9,8 @@
 |<ul><li>- [x] Done</li></ul>|2|[Gravity Flip](http://codeforces.com/problemset/problem/405/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|3|[Little Pony and Crystal Mine](http://codeforces.com/problemset/problem/454/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|4|[Anton and Letters](http://codeforces.com/problemset/problem/443/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|5|[Fox And Snake](http://codeforces.com/problemset/problem/510/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|6|[inc ARG](http://codeforces.com/problemset/problem/465/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|5|[Fox And Snake](http://codeforces.com/problemset/problem/510/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|6|[inc ARG](http://codeforces.com/problemset/problem/465/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|7|[Caisa and Pylons](http://codeforces.com/problemset/problem/463/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|8|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|9|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
